@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66245828-67fa-4429-8e80-f5d1ffad2b6a" name="Default Changelist" comment="fixed #3">
+      <change beforePath="$PROJECT_DIR$/java5.2old-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java5.2old-master/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectId" id="1lIUSRUf0FFEJWmh4g8Z0aqrO2z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66245828-67fa-4429-8e80-f5d1ffad2b6a" name="Default Changelist" comment="" />
+      <created>1607284099646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607284099646</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixed #3">
+      <created>1607284258106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607284258106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed #3" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed #3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="266" key="Github.ShareDialog" timestamp="1607284189190">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="561" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1607284189190" />
+    <state x="459" y="73" key="Github.UntrackedFilesDialog" timestamp="1607284202082">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="459" y="73" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1607284202082" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1607284261984">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1607284261984" />
+    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607284383606">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1607284383606" />
+    <state x="513" y="159" key="svn.repositoryBrowser" timestamp="1607284169266">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="159" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1607284169266" />
   </component>
 </project>
